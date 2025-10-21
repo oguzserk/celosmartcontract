@@ -29,8 +29,7 @@ Celo is optimized for real-world use cases like freelance work:
 - Global reach with localized stable assets
 
 
-
-
-
+<img width="292" height="330" alt="Ekran Görüntüsü - 2025-10-20 22-32-58" src="https://github.com/user-attachments/assets/b3f45574-ca51-47c9-9262-d7ae615cb8a4" />
+<img width="1648" height="938" alt="Ekran Görüntüsü - 2025-10-20 22-32-14" src="https://github.com/user-attachments/assets/144dbdcb-7987-4c11-8732-32cb0a24b6d4" />
 <img width="426" height="592" alt="image" src="https://github.com/user-attachments/assets/a191a700-a969-4fb1-9e03-0cd09e70333e" />
 
